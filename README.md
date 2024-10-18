@@ -195,5 +195,3 @@ public class ChatController {
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Let me know if you'd like to adjust anything further or add more details!
