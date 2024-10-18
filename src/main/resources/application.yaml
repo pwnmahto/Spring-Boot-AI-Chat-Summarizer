@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Spring Boot AI Chat Summarizer
+  ai:
+    openai:
+      api-key: <YOUR_OPENAI_API_KEY>
+
+server:
+  port: 8080
